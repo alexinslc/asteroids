@@ -38,7 +38,7 @@ This is a modern implementation of the classic Asteroids arcade game. Players co
    ```
 
 2. Controls:
-   - Arrow keys to move the spaceship
+   - WASD keys to move the spaceship
    - Space bar to shoot
    - ESC or close window to quit
 
